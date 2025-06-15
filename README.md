@@ -1,2 +1,3 @@
 # seconddir
 second
+hi
